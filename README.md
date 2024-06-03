@@ -1,3 +1,3 @@
 # Fall Detection System
 
-可识别人脸的跌倒检测系统
+融合人脸识别的跌倒检测系统
